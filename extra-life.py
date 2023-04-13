@@ -1,4 +1,6 @@
 # This grabs info from the DonorDrive Extra life API and displays it on Badger 2040 W.
+# This is an edit of the great example included in badgeros weather.py by Gadgetoid/Philip Howard. 
+# Found here https://github.com/pimoroni/badger2040/blob/main/badger_os/examples/weather.py
 # JCopeland April-3-20223
 
 import badger2040
